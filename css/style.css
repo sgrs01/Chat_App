@@ -1,0 +1,43 @@
+.content{
+    max-width: 900px;
+    height: 600px;
+    background-color: rgb(166, 211, 241);
+    margin:auto;
+    color: white;
+}
+.message{
+    margin-top: 10px;
+    max-width: 900px;
+    background-color: rgb(233, 153, 61);
+    border-radius: 5px;
+    padding: 0px 10px 0px 10px;
+}
+.left{
+    display: flex;
+    float: left;
+    clear: both;
+
+}
+.right{
+    display: flex;
+    float: right;
+    clear: both;
+
+    
+}
+.send{
+    display: block;
+    margin-left:330px;
+}
+#inp{
+    width: 800px;
+    border-radius: 5px;
+    height: 34px;
+}
+.butto{
+    height: 34px;
+    border-radius: 5px;
+    width:100px;
+    background-color: teal;
+    color: white;
+}
